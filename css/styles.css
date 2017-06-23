@@ -237,16 +237,37 @@ iframe {
 
 footer {
   background-color: #23c4a9;
-  height: 16vh;
+  height: 100px;
+  padding-top: 20px;
 }
 
-.social-box {
-  height: 100px;
-  width: 50px;
-  background-color: black;
-  z-index: -1;
-  display: inline-block;
+.social-icons {
+  text-align: center;
 }
+
+.social-icons>a {
+  margin: 50px 50px;
+}
+
+.fa {
+  color: #fff;
+  font-size: 48px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*.*/
